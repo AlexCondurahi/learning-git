@@ -3,4 +3,4 @@
 
 https://amigoscode.com
 
-![er](https://github.com/AlexCondurahi/learning-git/assets/62056883/8d702867-1014-47ac-b3cf-98a954dee648)
+![flux_informațional2](https://github.com/AlexCondurahi/learning-git/assets/62056883/9d6ea39c-069d-44d1-af5c-8454da43fa46)
